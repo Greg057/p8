@@ -1,0 +1,245 @@
+{
+  "personal": {
+    "full_name": "Jane Doe",
+    "title": "Software Engineer",
+    "about_me": "Software Engineer at TechWave Solutions specializing in scalable web applications, cloud platforms, and Agile methodologies. Passionate about building user-friendly solutions and continuously learning emerging technologies such as artificial intelligence, machine learning, and cloud-native applications. Experienced in Java, Python, JavaScript, and cloud DevOps tools.",
+    "location": "San Francisco, CA",
+    "avatarUrl": null,
+    "cvUrl": "/p8/user-files/cv.pdf",
+    "custom_links": [
+      {
+        "icon": "email",
+        "title": "Email",
+        "url": "jane.doe@email.com"
+      },
+      {
+        "icon": "linkedin",
+        "title": "LinkedIn",
+        "url": "https://linkedin.com/in/janedoe"
+      },
+      {
+        "icon": "github",
+        "title": "GitHub",
+        "url": "https://github.com/janedoe"
+      }
+    ]
+  },
+  "selectedComponents": {
+    "userInfo": "minimalProfile",
+    "skills": "orbitingCircles",
+    "projects": "threeDCard",
+    "workExperience": "card",
+    "education": "card"
+  },
+  "sectionOrder": [
+    "personal",
+    "experience",
+    "education",
+    "projects",
+    "skills"
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "logo": "/p8/icons/java/java-original.svg"
+    },
+    {
+      "name": "Python",
+      "logo": "/p8/icons/python/python-original.svg"
+    },
+    {
+      "name": "JavaScript",
+      "logo": "/p8/icons/javascript/javascript-original.svg"
+    },
+    {
+      "name": "React",
+      "logo": "/p8/icons/react/react-original.svg"
+    },
+    {
+      "name": "Node.js",
+      "logo": "/p8/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "name": "TypeScript",
+      "logo": "/p8/icons/typescript/typescript-original.svg"
+    },
+    {
+      "name": "C++",
+      "logo": "/p8/icons/cplusplus/cplusplus-original.svg"
+    },
+    {
+      "name": "Next.js",
+      "logo": "/p8/icons/nextjs/nextjs-original.svg"
+    },
+    {
+      "name": "Spring Boot",
+      "logo": "/p8/icons/spring/spring-original.svg"
+    },
+    {
+      "name": "Express.js",
+      "logo": "/p8/icons/express/express-original.svg"
+    },
+    {
+      "name": "Django",
+      "logo": "/p8/icons/django/django-original.svg"
+    },
+    {
+      "name": "PostgreSQL",
+      "logo": "/p8/icons/postgresql/postgresql-original.svg"
+    },
+    {
+      "name": "MongoDB",
+      "logo": "/p8/icons/mongodb/mongodb-original.svg"
+    },
+    {
+      "name": "MySQL",
+      "logo": "/p8/icons/mysql/mysql-original.svg"
+    },
+    {
+      "name": "Redis",
+      "logo": "/p8/icons/redis/redis-original.svg"
+    },
+    {
+      "name": "AWS",
+      "logo": "/p8/icons/amazonwebservices/amazonwebservices-original.svg"
+    },
+    {
+      "name": "Docker",
+      "logo": "/p8/icons/docker/docker-original.svg"
+    },
+    {
+      "name": "Kubernetes",
+      "logo": "/p8/icons/kubernetes/kubernetes-original.svg"
+    },
+    {
+      "name": "Git",
+      "logo": "/p8/icons/git/git-original.svg"
+    },
+    {
+      "name": "Jenkins",
+      "logo": "/p8/icons/jenkins/jenkins-original.svg"
+    },
+    {
+      "name": "CI/CD pipelines",
+      "logo": null
+    },
+    {
+      "name": "REST APIs",
+      "logo": null
+    },
+    {
+      "name": "GraphQL",
+      "logo": "/p8/icons/graphql/graphql-original.svg"
+    },
+    {
+      "name": "Unit Testing",
+      "logo": null
+    },
+    {
+      "name": "Agile/Scrum",
+      "logo": null
+    },
+    {
+      "name": "Test-Driven Development (TDD)",
+      "logo": null
+    },
+    {
+      "name": "GitHub Actions",
+      "logo": "/p8/icons/githubactions/githubactions-original.svg"
+    },
+    {
+      "name": "Supabase",
+      "logo": "/p8/icons/supabase/supabase-original.svg"
+    },
+    {
+      "name": "Vercel",
+      "logo": "/p8/icons/vercel/vercel-original.svg"
+    },
+    {
+      "name": "scikit-learn",
+      "logo": "/p8/icons/scikitlearn/scikitlearn-original.svg"
+    },
+    {
+      "name": "Flask",
+      "logo": "/p8/icons/flask/flask-original.svg"
+    },
+    {
+      "name": "React Native",
+      "logo": "/p8/icons/reactnative/reactnative-original.svg"
+    },
+    {
+      "name": "SQLite",
+      "logo": "/p8/icons/sqlite/sqlite-original.svg"
+    }
+  ],
+  "projects": [
+    {
+      "name": "React Native Focus Pals",
+      "description": "Developed a gamified focus timer app using React Native, JavaScript, and Firebase that rewards users with virtual pets called Pals, which level up and evolve as users maintain deep focus sessions, encouraging uninterrupted study and productivity through collectible companions and XP-based incentives.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "expo",
+          "logo": "/p8/icons/expo/expo-original.svg"
+        },
+        {
+          "name": "firebase",
+          "logo": "/p8/icons/firebase/firebase-original.svg"
+        },
+        {
+          "name": "javascript",
+          "logo": "/p8/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "react",
+          "logo": "/p8/icons/react/react-original.svg"
+        },
+        {
+          "name": "react native",
+          "logo": "/p8/icons/reactnative/reactnative-original.svg"
+        }
+      ],
+      "custom_links": [
+        {
+          "icon": "github",
+          "title": "GitHub",
+          "url": "https://github.com/Greg057/react-native-focus-pals"
+        }
+      ]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "TechWave Solutions",
+      "position": "Software Engineer",
+      "location": "San Francisco, CA",
+      "start_date": "Jan 2021",
+      "end_date": "Present",
+      "description": "- Designed and developed scalable microservices in Java and Node.js, reducing system downtime by 30%.\r\n- Implemented CI/CD pipelines with GitHub Actions and Docker, improving deployment speed by 40%.\r\n- Optimized database queries in PostgreSQL, cutting average response time by 25%.\r\n- Collaborated with a team of 8 engineers using Agile, consistently delivering features within sprint deadlines.\r\n- Mentored junior developers, leading to faster onboarding and reduced code review issues.",
+      "logoUrl": null,
+      "custom_links": []
+    },
+    {
+      "company": "BrightApps Inc.",
+      "position": "Junior Software Engineer",
+      "location": "San Jose, CA",
+      "start_date": "Jun 2019",
+      "end_date": "Dec 2020",
+      "description": "- Built front-end features with React and integrated REST APIs for an e-commerce platform serving 50k+ users.\r\n- Wrote unit and integration tests, increasing code coverage from 60% to 85%.\r\n- Supported migration of legacy PHP application to Node.js, improving maintainability.\r\n- Partnered with UX designers to enhance customer checkout flow, resulting in 15% increase in conversions.\r\n- Automated deployment scripts with Jenkins, cutting manual release steps by 70%.",
+      "logoUrl": null,
+      "custom_links": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science",
+      "university": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "start_year": "2015",
+      "end_year": "2019",
+      "description": "Relevant Coursework:\r\nData Structures, Algorithms, Operating Systems, Databases, Machine Learning, Software Engineering.",
+      "logoUrl": null,
+      "custom_links": []
+    }
+  ]
+}
