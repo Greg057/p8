@@ -29,12 +29,12 @@
     "skills": "orbitingCircles",
     "projects": "threeDCard",
     "workExperience": "card",
-    "education": "card"
+    "education": "timeline"
   },
   "sectionOrder": [
+    "education",
     "personal",
     "experience",
-    "education",
     "projects",
     "skills"
   ],
@@ -238,7 +238,7 @@
       "start_year": "2015",
       "end_year": "2019",
       "description": "Relevant Coursework:\r\nData Structures, Algorithms, Operating Systems, Databases, Machine Learning, Software Engineering.",
-      "logoUrl": null,
+      "logoUrl": "/p8/user-files/education/998ac835-e30a-4f97-8301-608683050c4c-logo-1758983260303.png",
       "custom_links": []
     }
   ]
